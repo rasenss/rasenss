@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rasenss
-- 👀 I’m interested about android 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested about LIFE 
+- 🌱 I’m currently learning anything ofc 
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me to be a real human
 
 <!---
 rasenss/rasenss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
