@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning anything ofc 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me to be a real human
+- ❤️ Gitu Aja Kok Repot 😄
 
 <!---
 rasenss/rasenss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
