@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasenss
 - 👀 I’m interested about LIFE 
 - 🌱 I’m currently learning anything ofc 
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking on anything
 - 📫 How to reach me to be a real human
 - ❤️ Gitu Aja Kok Repot 😄
 
