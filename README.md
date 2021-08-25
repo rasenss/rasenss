@@ -1,9 +1,8 @@
 
 
-- 👋 Hi, I’m @rasenss
+- 👋 Hi, I’m razsen
 - 👀 I’m interested about LIFE 
-- 🌱 I’m currently learning anything ofc 
-- 💞️ I’m looking on anything
+- 🌱 I’m currently learning anything
 - 📫 How to reach me to be a real human
 - ❤️ Gitu Aja Kok Repot 😄
 
