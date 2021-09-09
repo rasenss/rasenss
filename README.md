@@ -6,6 +6,7 @@
 - 📫 How to reach me to be a real human
 - ❤️ Gitu Aja Kok Repot 
 - ![Razsen GitHub stats](https://github-readme-stats.vercel.app/api?username=rasenss&show_icons=true&theme=radical)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasenss&theme=neon-palenight&hide_border=true)
 
 <!---
 rasenss/rasenss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
