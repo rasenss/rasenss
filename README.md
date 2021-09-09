@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning anything
 - 📫 How to reach me to be a real human
 - ❤️ Gitu Aja Kok Repot 
+- ![Razsen GitHub stats](https://github-readme-stats.vercel.app/api?username=rasenss&show_icons=true&theme=radical)
 
 <!---
 rasenss/rasenss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
