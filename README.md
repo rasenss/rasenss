@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m razsen: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/razs_19)
+- 👋 Hi, I’m razsen: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=170b95)](https://t.me/razs_19)
 - 👀 I’m interested about LIFE 
 - 🌱 I’m currently learning anything
 - 📫 How to reach me to be a real human
