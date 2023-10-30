@@ -1,4 +1,4 @@
-## Hello I'm rasend <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/Hi.gif" width="25px"> [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/razs_19)
+ [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=990bff)](https://t.me/razs_19)
 
 ![Razsen GitHub stats](https://github-readme-stats.vercel.app/api?username=rasenss&show_icons=true&theme=radical)
 
